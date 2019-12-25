@@ -1,0 +1,2 @@
+PA SMVSYSのコミット
+!!TortoiseProc.exe /command:commit /path:"<<F(QM.ACCOUNTS,SMVSYS,1)>>"

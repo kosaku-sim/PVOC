@@ -1,0 +1,2 @@
+PA WSLを利用して指定のコマンドを起動
+WSL -o ScrollbackLines=1000 /bin/bash -l -c "<<C2+:cmdline>>"

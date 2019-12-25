@@ -1,0 +1,2 @@
+PA svn diff
+!!TortoiseProc.exe /command:diff /path:"<<C2:.\>>"

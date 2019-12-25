@@ -1,0 +1,2 @@
+PA svn log
+!!TortoiseProc.exe /command:log /path:"<<C2:.\>>"

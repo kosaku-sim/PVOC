@@ -1,0 +1,2 @@
+PA SMVSYSの作業コピーの差分
+!!TortoiseProc.exe /command:diff /ignoreprops /path:"<<F(QM.ACCOUNTS,SMVSYS,1)>>"

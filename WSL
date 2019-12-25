@@ -1,0 +1,2 @@
+S WSLを現在のアカウントで別ウィンドウとして起動
+!!C:\Users\kosak_wws\AppData\Local\wsltty\bin\mintty.exe --WSL="openSUSE-42" --configdir="C:\Users\kosak_wws\AppData\Roaming\wsltty" --dir <<@PATH>>
