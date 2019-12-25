@@ -1,2 +1,2 @@
 S WSLを現在のアカウントで別ウィンドウとして起動
-!!%HOMEDRIVE%%HOMEPATH%\AppData\Local\wsltty\bin\mintty.exe --WSL="openSUSE-42" --configdir="%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\wsltty" --dir <<@PATH>>
+!!%LOCALAPPDATA%\wsltty\bin\mintty.exe --WSL="openSUSE-42" --configdir="%APPDATA%\wsltty" --dir <<@PATH>>
